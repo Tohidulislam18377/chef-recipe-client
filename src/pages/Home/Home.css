@@ -1,0 +1,23 @@
+.banner-section{
+    background: linear-gradient(to bottom right,#f3ebeb,#fff,#ffeded);
+}
+.text-section{
+    color: #4f4850;
+}
+.blog-section{
+    background-color:#f54748;
+}
+.blog-section:hover{
+    background-color:#da1616 ;
+}
+.banner-card-section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 20px;
+}
+.card-section{
+    position: relative;
+    background: linear-gradient(to bottom right,#ffeded,#fff,#ffeded);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,13 @@
+.nav-container{
+    background: linear-gradient(to bottom right,#ffeded,#fff,#ffeded);
+    margin-bottom: 15px;
+    top: 0px;
+    position: sticky;
+    z-index: 1000;
+}
+.login-section{
+    background-color:#f54748 ;
+}
+.login-section:hover{
+    background-color:#da1616 ;
+}
